@@ -2,8 +2,6 @@
 
 ## Common Wealth Bank Tasks
 
-### 1. Task
+### [X] 1. Task - Create a Website
 
-**_Create a Website_**
-
-Build a local Webiste with HTML/CSS
+- Build a local Webiste with HTML/CSS
